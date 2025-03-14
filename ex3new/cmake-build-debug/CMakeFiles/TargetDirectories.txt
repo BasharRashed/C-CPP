@@ -1,0 +1,3 @@
+/mnt/c/Users/bashar/CLionProjects/newex3b/cmake-build-debug/CMakeFiles/newex3b.dir
+/mnt/c/Users/bashar/CLionProjects/newex3b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bashar/CLionProjects/newex3b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
