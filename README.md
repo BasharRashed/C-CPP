@@ -42,7 +42,7 @@ Heavy focus on performance and memory safety
 Skills: OOP in C++, algorithm design, smart pointers, STL, cosine similarity, matrix/vector math
 ---
 
-## 🤖 Machine Learning Project (C++)
+## 🤖 Machine Learning / Neural Network Project (C++)
 A basic implementation of a fully connected feedforward neural network in C++ designed to classify handwritten digits (0–9). The model includes four layers with ReLU and Softmax activation functions. It takes grayscale 28×28 images as input and predicts the digit with over 96% accuracy on pre-trained weights. The project focuses on linear algebra operations, custom matrix implementation, and activation function logic.
 
 Architecture:
